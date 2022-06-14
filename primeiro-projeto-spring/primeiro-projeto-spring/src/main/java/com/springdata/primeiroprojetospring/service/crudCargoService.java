@@ -9,7 +9,7 @@ import java.util.Scanner;
 @Service
 public class crudCargoService {
     private Boolean system = true;
-    private final CargoRepository cargoRepository;
+    final CargoRepository cargoRepository;
 
     public crudCargoService(CargoRepository cargoRepository){
         this.cargoRepository = cargoRepository;
