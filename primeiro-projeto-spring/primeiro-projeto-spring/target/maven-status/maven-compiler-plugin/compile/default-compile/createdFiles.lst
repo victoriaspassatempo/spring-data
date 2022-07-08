@@ -1,0 +1,4 @@
+com\springdata\primeiroprojetospring\orm\Cargos.class
+com\springdata\primeiroprojetospring\service\crudCargoService.class
+com\springdata\primeiroprojetospring\PrimeiroProjetoSpringApplication.class
+com\springdata\primeiroprojetospring\repository\CargoRepository.class
